@@ -72,8 +72,6 @@ Project follow the Maven's [standard directory layout structure](https://maven.a
 
 If you run application from a command line, remember to prepend a `mvn` to the command.
 
-<br>
-<br>
 
 ## Example
 On the left we see user "Majd" while on the right user "BOT", both of them are talking in the same room on port 555.

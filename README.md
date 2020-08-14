@@ -1,6 +1,6 @@
 # Project Base for Vaadin and Spring Boot
 
-This is a simple chat room where 2 different userrs can chat in the same room. in case of one user joined late, he/she can see the last 30 messages.
+This is a simple chat room where different userrs (more than 2) can chat in the same room. in case of one user joined late, he/she can see the last 30 messages.
 
 ## Running the Application
 

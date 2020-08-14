@@ -1,7 +1,6 @@
 # Project Base for Vaadin and Spring Boot
 
-This is an example project that can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+This is a simple chat room where 2 different userrs can chat in the same room. in case of one user joined late, he/she can see the last 30 messages.
 
 
 ## Running the Application
@@ -24,7 +23,7 @@ Once configurations are set clicking `Run` will start the application
 
 Clicking on the green run button will start the application.
 
-After the application has started, you can view your it at http://localhost:8080/ in your browser.
+After the application has started, you can view your it at http://localhost:555/ in your browser.
 
 
 If you want to run the application locally in the production mode, use `spring-boot:run -Pproduction` command instead.
